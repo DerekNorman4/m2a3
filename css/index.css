@@ -43,7 +43,7 @@ ul { border-top: 1px solid white;
 			border-radius: 2%;}
 
 nav {background-color: black;
-	margin-left: 1.5rem;}
+	margin-left: 1rem;}
 
 nav, li, a{  
 	padding: 2px;
@@ -65,12 +65,12 @@ header { text-align: wrap !important;
 main, #home-content { background-color: #d7e5f4;
 					color: black; 
 					padding: 10px;
-					margin-left: 170px; 
+					margin-left: 150px; 
 					padding-right: 100px;}
 
 @media screen and (max-width: 900px) {
 	main, #home-content {
-		margin-left: 170px;
+		margin-left: 150px;
 	}
 }
 

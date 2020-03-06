@@ -66,7 +66,8 @@ main, #home-content { background-color: #d7e5f4;
 					color: black; 
 					padding: 10px;
 					margin-left: 150px; 
-					padding-right: 100px;}
+					padding-right: 100px;
+}
 
 @media screen and (max-width: 900px) {
 	main, #home-content {
@@ -80,3 +81,24 @@ footer { color: white;
 		background-color: black;
 		padding: 5px;
 		text-align:  center; }
+
+.form-content {
+	text-align: center;
+}
+
+.center-paragraph {
+	padding-left: 20%;
+	padding-right: 20%;
+	text-align: center;
+}
+
+#additionalComments {
+	width: 300px;
+	height: 100px;
+	
+}
+
+table {
+	margin-right: auto;
+	margin-left: auto;
+}
